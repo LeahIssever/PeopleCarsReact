@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleCarsReact.Web", "PeopleCarsReact.Web\PeopleCarsReact.Web.csproj", "{30970510-DDF7-4B36-B3E1-EBC4149F6A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleCarsReact.Data", "PeopleCarsReact.Data\PeopleCarsReact.Data.csproj", "{D3B20410-199D-491C-969A-F75516AE291D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30970510-DDF7-4B36-B3E1-EBC4149F6A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30970510-DDF7-4B36-B3E1-EBC4149F6A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30970510-DDF7-4B36-B3E1-EBC4149F6A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30970510-DDF7-4B36-B3E1-EBC4149F6A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B20410-199D-491C-969A-F75516AE291D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B20410-199D-491C-969A-F75516AE291D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B20410-199D-491C-969A-F75516AE291D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B20410-199D-491C-969A-F75516AE291D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
